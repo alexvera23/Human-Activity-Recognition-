@@ -8,3 +8,9 @@ Para tener orden los archivos se subiran en la carpeta correspondiente de cada i
 el nombre de los archivos será "actividad_nombreintegrante_numero_prueba.csv 
 ejemplo: "caminar_alex_toma1.csv" el nombre del integrante que sea el mismo de la carpeta
 subir los archivos al repo. 
+
+A la hora de iniciar las mediciones Guarda el smartphone en el bolsillo delantero del pantalón con la pantalla mirando hacia tu pierna y la parte superior apuntando hacia arriba. 
+Mantén esta misma posición en las 5 actividades.
+
+Transiciones (Margen de seguridad): Al iniciar la grabación en la app, espera 5 segundos antes de empezar a moverte. 
+Al terminar la actividad, detente, espera 5 segundos y detén la grabación.
