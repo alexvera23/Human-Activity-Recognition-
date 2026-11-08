@@ -1,0 +1,10 @@
+Instalar la aplicación phyphox: https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox&hl=es_MX
+Utilizar la Aceleracion sin (g)
+Se haran pruebas haciendo las siguientes actividades: 
+Sentado, Caminando, Corriendo, Subiendo escaleras y en un Vehiculo (transporte publico o automovil)
+Cada actividad tendrá 2 repeticiones de 3 minutos por actividad.
+los archivos exportados desde la aplicacion serán csv(Comma,decimal point)
+Para tener orden los archivos se subiran en la carpeta correspondiente de cada integrante 
+el nombre de los archivos será "actividad_nombreintegrante_numero_prueba.csv 
+ejemplo: "caminar_alex_toma1.csv" el nombre del integrante que sea el mismo de la carpeta
+subir los archivos al repo. 
