@@ -1,0 +1,16 @@
+# Archivos de Python y entornos virtuales
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# Notebooks de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Modelos o datos excesivamente pesados (Opcional si exceden los límites de GitHub)
+# data/processed/*.csv
